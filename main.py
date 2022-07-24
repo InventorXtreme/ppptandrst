@@ -186,13 +186,13 @@ def get_point(x1,y1,vo,vi,leng,wid):
     print(rotate(x1,y1,x2,y2,angvelo))
 
 
-class Bot():
-    def __init__(self,posx,posy,radrot):
-        self.x = posx
-        self.y = posy
-        self.radrot = radrot
-    def move(t1speed,t2speed,time):
-        if t1speed == t2speed:
+##class Bot():
+##    def __init__(self,posx,posy,radrot):
+##        self.x = posx
+##        self.y = posy
+##        self.radrot = radrot
+##    def move(t1speed,t2speed,time):
+##        if t1speed == t2speed:
             
 
 #we should be able to just add
